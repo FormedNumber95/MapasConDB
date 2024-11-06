@@ -29,7 +29,7 @@
             android:value="${MAPS_API_KEY}" />
 
         <activity
-            android:name=".MapsActivityDemo"
+            android:name=".MapasDeDB"
             android:exported="true"
             android:label="@string/title_activity_maps_demo">
             <intent-filter>
